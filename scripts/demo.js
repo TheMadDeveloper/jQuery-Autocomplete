@@ -74,4 +74,7 @@ $(function () {
     $('#autocomplete-dynamic').autocomplete({
         lookup: countriesArray
     });
+
+
+    // Lookup function
 });
